@@ -1,0 +1,32 @@
+[
+  {
+    "resource_id": "DEMO-001",
+    "name": "Demo Housing Support",
+    "description": "Helps individuals explore rental assistance and housing support options.",
+    "eligibility": "Adults living in fictional Example County.",
+    "information_needed": [
+      "County of residence",
+      "Type of housing assistance needed"
+    ]
+  },
+  {
+    "resource_id": "DEMO-002",
+    "name": "Demo Food Assistance",
+    "description": "Provides groceries to households experiencing food insecurity.",
+    "eligibility": "Households living in fictional Example County. No income documentation required.",
+    "information_needed": [
+      "County of residence",
+      "Whether grocery assistance is needed"
+    ]
+  },
+  {
+    "resource_id": "DEMO-003",
+    "name": "Demo Financial Guidance",
+    "description": "Provides budgeting support and guidance on managing personal debt. Does not provide direct financial assistance.",
+    "eligibility": "Adults statewide in fictional Example State.",
+    "information_needed": [
+      "State of residence",
+      "Whether budgeting or debt guidance is needed"
+    ]
+  }
+]
